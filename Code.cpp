@@ -1,5 +1,6 @@
 #include <iostream>
 int main()
 {
-	Cout << "Hello Git";
+	cout << "Hello Git";
+	cout << "Adding line";
 }
