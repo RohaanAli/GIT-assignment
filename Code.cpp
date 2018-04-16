@@ -1,9 +1,9 @@
 #include <iostream>
-using std::cout;
-using std::endl;
+using namespace std;
 int main()
 {
 	cout << "Hello Git" << endl;
 	cout << "Adding line" << endl;
-	cout << "Adding another line" << endl;
+  cout << "Adding another line" << endl;
+  return 0;
 }
