@@ -1,6 +1,8 @@
 #include <iostream>
+using std::cout;
+using std::endl;
 int main()
 {
-	cout << "Hello Git";
-	cout << "Adding line";
+	cout << "Hello Git" << endl;
+	cout << "Adding line" << endl;
 }
